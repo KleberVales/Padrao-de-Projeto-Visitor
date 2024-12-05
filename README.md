@@ -47,4 +47,4 @@ Você deve criar:
   ![imagens/img1.png](imagens/img1.png)
 
 - Saída\
-  ![imagens/img1.png](imagens/img1.png)
+  ![imagens/img2.png](imagens/img2.png)
