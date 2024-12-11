@@ -3,7 +3,7 @@
 No problema proposto deve-se usar o Padrão de Projeto Visitor (Visitor Design Pattern) no contexto de árvores (estruturas de dados).
 
 ### Objetivo
-Implementar visitantes (visitors) para uma árvore, respeitando o princípio do aberto/fechado (Open/Closed Principle) da programação orientada a objetos. Isso significa que a funcionalidade deve ser estendida sem modificar diretamente a implementação da árvore.
+Implementar visitantes (visitors) para uma árvore, respeitando o princípio do aberto/fechado (Open/Closed Principle) da programação orientada a objetos. Isso significa que a funcionalidade deve ser estendida sem modificar diretamente a implementação da árvore
 
 Você deve criar:
 1. Três classes de visitantes diferentes.
